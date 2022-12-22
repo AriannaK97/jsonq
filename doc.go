@@ -59,4 +59,5 @@ For simplicity, integer keys (ie, {"0": "zero"}) are inaccessible by `jsonq`
 as integer strings are assumed to be array indexes.
 
 */
-package jsonq
+//package jsonq
+package main

@@ -1,4 +1,4 @@
-package jsonq
+package main
 
 import (
 	"fmt"
